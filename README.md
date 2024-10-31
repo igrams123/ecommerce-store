@@ -29,7 +29,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/trendy-sneakers.git
+git clone https://github.com/igrams123/trendy-sneakers.git
 cd trendy-sneakers
 Create a virtual environment:
 
